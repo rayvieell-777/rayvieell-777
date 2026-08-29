@@ -1,0 +1,18 @@
+{
+  "name": "Muhammad Rayi Rifqi Yunus — Portofolio",
+  "short_name": "Rayi Portfolio",
+  "description": "Portofolio Muhammad Rayi Rifqi Yunus — Pengembang web dan pembuat komponen antarmuka.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070b",
+  "theme_color": "#0a0e15",
+  "lang": "id",
+  "author": "Muhammad Rayi Rifqi Yunus",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
